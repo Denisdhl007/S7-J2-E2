@@ -11,7 +11,6 @@ console.log(name);
 console.log(`Hello ${name} !`);
 console.log(name.charAt(0));
 
-
 // ### Exercice 2
 // - Créer un programme qui demande un prénom a l'utilisateur (prompt) et qui renvoi tout sauf le premier caractère du prénom dans une alert
 
